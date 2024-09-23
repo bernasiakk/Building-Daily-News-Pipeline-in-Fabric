@@ -1,0 +1,935 @@
+[
+    {
+      "_type": "News",
+      "readLink": "https://api.bing.microsoft.com/api/v7/news/search?q=latest+news",
+      "queryContext": {
+        "originalQuery": "latest news",
+        "adultIntent": false
+      },
+      "totalEstimatedMatches": 30,
+      "sort": [
+        {
+          "name": "Najlepsze dopasowanie",
+          "id": "relevance",
+          "isSelected": true,
+          "url": "https://api.bing.microsoft.com/api/v7/news/search?q=latest+news"
+        },
+        {
+          "name": "Najnowsze",
+          "id": "date",
+          "isSelected": false,
+          "url": "https://api.bing.microsoft.com/api/v7/news/search?q=latest+news&sortby=date"
+        }
+      ],
+      "value": [
+        {
+          "name": "Kanadyjski ekspert: doświadczenia Polski w identyfikacji rosyjskich zagrożeń są bardzo cenne",
+          "url": "https://www.polskieradio.pl/399/7975/Artykul/3427412,kanadyjski-ekspert-doswiadczenia-polski-w-identyfikacji-rosyjskich-zagrozen-sa-bardzo-cenne",
+          "image": {
+            "thumbnail": {
+              "contentUrl": "https://www.bing.com/th?id=OVFT.HFBGg1bxJa2eFP4Yu-5yZC&pid=News",
+              "width": 700,
+              "height": 385
+            }
+          },
+          "description": "Komisja bezpieczeństwa parlamentu Kanady postanowiła w czwartek przeprowadzić dochodzenie w sprawie rosyjskich wpływów w tym kraju",
+          "about": [
+            {
+              "readLink": "https://api.bing.microsoft.com/api/v7/entities/1d6059a2-d1f1-d2d7-4261-dc7cd5cdb84b",
+              "name": "Polska"
+            },
+            {
+              "readLink": "https://api.bing.microsoft.com/api/v7/entities/66bce6eb-c532-4e4e-ab5f-c29c2c2080be",
+              "name": "Radosław Sikorski"
+            }
+          ],
+          "provider": [
+            {
+              "_type": "Organization",
+              "name": "PolskieRadio",
+              "image": {
+                "thumbnail": {
+                  "contentUrl": "https://www.bing.com/th?id=ODF.3MAkDCCIrkMRzYa3M3Y28A&pid=news"
+                }
+              }
+            }
+          ],
+          "datePublished": "2024-09-21T10:00:00Z"
+        },
+        {
+          "name": "Kanada: Ekspert: doświadczenia Polski w identyfikacji rosyjskich zagrożeń są bardzo cenne",
+          "url": "https://www.wnp.pl/rynki-zagraniczne/kanada-ekspert-doswiadczenia-polski-w-identyfikacji-rosyjskich-zagrozen-sa-bardzo-cenne,875892.html",
+          "image": {
+            "thumbnail": {
+              "contentUrl": "https://www.bing.com/th?id=OVFT.Ab-SwHhAx0kurlVJvedRhS&pid=News",
+              "width": 700,
+              "height": 466
+            }
+          },
+          "description": "Komisja bezpieczeństwa parlamentu Kanady postanowiła w czwartek przeprowadzić dochodzenie w sprawie rosyjskich wpływów w tym kraju. Polska mogłaby wesprzeć Kanadę w ocenie zagrożeń stwarzanych przez R",
+          "about": [
+            {
+              "readLink": "https://api.bing.microsoft.com/api/v7/entities/370ed614-32e1-4326-a356-dc0a7dd56aaa",
+              "name": "Kanada"
+            },
+            {
+              "readLink": "https://api.bing.microsoft.com/api/v7/entities/dfe863ad-d9fe-8005-e896-12e82aa2abc1",
+              "name": "Parlament Kanady"
+            },
+            {
+              "readLink": "https://api.bing.microsoft.com/api/v7/entities/1d6059a2-d1f1-d2d7-4261-dc7cd5cdb84b",
+              "name": "Polska"
+            },
+            {
+              "readLink": "https://api.bing.microsoft.com/api/v7/entities/66bce6eb-c532-4e4e-ab5f-c29c2c2080be",
+              "name": "Radosław Sikorski"
+            }
+          ],
+          "provider": [
+            {
+              "_type": "Organization",
+              "name": "wnp.pl",
+              "image": {
+                "thumbnail": {
+                  "contentUrl": "https://www.bing.com/th?id=ODF._Mq01l6K53M6RRRbhi2_cw&pid=news"
+                }
+              }
+            }
+          ],
+          "datePublished": "2024-09-21T04:26:00Z"
+        },
+        {
+          "name": "Partyzanci znaleźli w Symferopolu rosyjską bazę zaopatrzenia wojskowego",
+          "url": "https://geopolityka.org/20240922/partyzanci-znalezli-w-symferopolu-rosyjska-baze-zaopatrzenia-wojskowego/",
+          "image": {
+            "thumbnail": {
+              "contentUrl": "https://www.bing.com/th?id=OVFT.I4wIc8TJxirvk79FKLGKkC&pid=News",
+              "width": 600,
+              "height": 375
+            }
+          },
+          "description": "Każdego dnia w kolejce po zaopatrzenie stoi wiele pojazdów wojskowych. Rosyjska baza wojskowa w Symferopolu Rosyjskie Siły Zbrojne. Poinformował o",
+          "provider": [
+            {
+              "_type": "Organization",
+              "name": "geopolityka.org"
+            }
+          ],
+          "datePublished": "2024-09-22T11:49:00Z"
+        },
+        {
+          "name": "Watykan przemówił w sprawie Medjugorje! Czy objawienia zostały uznane?",
+          "url": "https://www.se.pl/wiadomosci/swiat/watykan-przemowil-w-sprawie-medjugorje-czy-objawienia-zostaly-uznane-aa-bmfG-jjUo-EzJi.html",
+          "image": {
+            "thumbnail": {
+              "contentUrl": "https://www.bing.com/th?id=OVFT.kldTuqA3F-Ck0SYmoBj7nS&pid=News",
+              "width": 700,
+              "height": 466
+            }
+          },
+          "description": "Watykan po latach oczekiwania przez wielu wiernych wreszcie zabrał głos w sprawie kontrowersyjnych objawień maryjnych w miejscowości Medjugorje w Bośni i",
+          "about": [
+            {
+              "readLink": "https://api.bing.microsoft.com/api/v7/entities/391b7067-82be-6f93-f1c1-7a92a0c60507",
+              "name": "Watykan"
+            }
+          ],
+          "provider": [
+            {
+              "_type": "Organization",
+              "name": "SE",
+              "image": {
+                "thumbnail": {
+                  "contentUrl": "https://www.bing.com/th?id=ODF.m7D0yBzzZsnKtu44yb1UTg&pid=news"
+                }
+              }
+            }
+          ],
+          "datePublished": "2024-09-21T14:17:00Z",
+          "video": {
+            "name": "Watykan przemówił w sprawie Medjugorje! Czy objawienia zostały uznane?",
+            "thumbnailUrl": "https://www.bing.com/th?id=OVF.n1qJJO%2FH9RbY2Hx2N9u7ig&pid=News",
+            "thumbnail": {
+              "width": 520,
+              "height": 346
+            }
+          }
+        },
+        {
+          "name": "Kolejni piloci ukraińskich F-16 do końca roku",
+          "url": "https://defence24.pl/wojna-na-ukrainie-raport-specjalny-defence24/kolejni-piloci-ukrainskich-f16-do-konca-roku",
+          "image": {
+            "thumbnail": {
+              "contentUrl": "https://www.bing.com/th?id=OVFT.ui6YGOGGl-R0q6I1am6dlC&pid=News",
+              "width": 700,
+              "height": 393
+            }
+          },
+          "description": "W Rumunii pod kierunkiem holenderskich instruktorów szkoli się kolejna grupa ukraińskich pilotów F-16.",
+          "about": [
+            {
+              "readLink": "https://api.bing.microsoft.com/api/v7/entities/7b43027b-321c-d2e4-0422-1557877ca432",
+              "name": "Fetești"
+            }
+          ],
+          "provider": [
+            {
+              "_type": "Organization",
+              "name": "defence24",
+              "image": {
+                "thumbnail": {
+                  "contentUrl": "https://www.bing.com/th?id=ODF.czuNJUgcXYnaTpGq9BbjIw&pid=news"
+                }
+              }
+            }
+          ],
+          "datePublished": "2024-09-17T05:40:00Z"
+        },
+        {
+          "name": "Sąd od nowa rozpatrzy wniosek o upadłość huty w Częstochowie. Liberty triumfuje, załoga nadal niepewna swego losu",
+          "url": "https://czestochowa.wyborcza.pl/czestochowa/7,48725,31311072,sad-od-nowa-rozpatrzy-wniosek-o-upadlosc-huty-w-czestochowie.html",
+          "image": {
+            "thumbnail": {
+              "contentUrl": "https://www.bing.com/th?id=OVFT.KxTm1k4B6cSwErFqjVd0TS&pid=News",
+              "width": 700,
+              "height": 367
+            }
+          },
+          "description": "Sąd Okręgowy w Częstochowie uwzględnił zażalenie spółki Liberty na ogłoszenie upadłości huty i wrócił sprawę do ponownego rozpatrzenia w I instancji. - Zaważyły względy formalne, sąd uznał, iż doszło",
+          "provider": [
+            {
+              "_type": "Organization",
+              "name": "czestochowa.wyborcza",
+              "image": {
+                "thumbnail": {
+                  "contentUrl": "https://www.bing.com/th?id=ODF.4Zy9RnCqUlGQeldZM3X15w&pid=news"
+                }
+              }
+            }
+          ],
+          "datePublished": "2024-09-17T09:45:00Z"
+        },
+        {
+          "name": "Ireland: Investigation into Google's use of personal data for AI training",
+          "url": "https://londynek.net/wiadomosci/Ireland%3A%20Investigation%20into%20Google%27s%20use%20of%20personal%20data%20for%20AI%20training%2Cwiadomosci%2Cnews,/wiadomosci/en/article?jdnews_id=102885&s=hpswiper",
+          "image": {
+            "thumbnail": {
+              "contentUrl": "https://www.bing.com/th?id=OVFT.2lPNfuK6G5CgjyhetdYydy&pid=News",
+              "width": 700,
+              "height": 467
+            }
+          },
+          "description": "The Irish Data Protection Commission announced yesterday that it has launched an investigation to determine whether Google complied with European Union privacy laws when developing one of its artifici",
+          "about": [
+            {
+              "readLink": "https://api.bing.microsoft.com/api/v7/entities/a8008a03-d600-4a57-b269-c7ee896ab9f7",
+              "name": "Ireland"
+            },
+            {
+              "readLink": "https://api.bing.microsoft.com/api/v7/entities/f39b29ec-05ee-d6cb-3070-ddaa0fb00ee0",
+              "name": "Google"
+            },
+            {
+              "readLink": "https://api.bing.microsoft.com/api/v7/entities/3b8ddb1a-cf19-ee77-560d-9dfa00ddf070",
+              "name": "European Union"
+            },
+            {
+              "readLink": "https://api.bing.microsoft.com/api/v7/entities/9d99fb44-edac-0e03-1579-19d8d8591a49",
+              "name": "Artificial intelligence"
+            }
+          ],
+          "provider": [
+            {
+              "_type": "Organization",
+              "name": "Londynek.net",
+              "image": {
+                "thumbnail": {
+                  "contentUrl": "https://www.bing.com/th?id=ODF.FyZO645vVAbMBqEQpxf1pQ&pid=news"
+                }
+              }
+            }
+          ],
+          "datePublished": "2024-09-13T11:00:00Z"
+        },
+        {
+          "name": "Irlandia: Dochodzenie w sprawie użycia przez Google danych osobowych do szkolenia AI",
+          "url": "https://londynek.net/wiadomosci/article?jdnews_id=102885",
+          "image": {
+            "thumbnail": {
+              "contentUrl": "https://www.bing.com/th?id=OVFT.2lPNfuK6G5CgjyhetdYydy&pid=News",
+              "width": 700,
+              "height": 467
+            }
+          },
+          "description": "Irlandzka Komisja Ochrony Danych poinformowała wczoraj, że wszczęła dochodzenie mające ustalić, czy firma Google przestrzegała przepisów Unii Europejskiej dotyczących prywatności podczas opracowywania",
+          "about": [
+            {
+              "readLink": "https://api.bing.microsoft.com/api/v7/entities/77f28672-5669-4775-a58a-b62b17779010",
+              "name": "Irlandia"
+            },
+            {
+              "readLink": "https://api.bing.microsoft.com/api/v7/entities/f39b29ec-05ee-d6cb-3070-ddaa0fb00ee0",
+              "name": "Google"
+            },
+            {
+              "readLink": "https://api.bing.microsoft.com/api/v7/entities/3e232ae4-dd7f-2729-755c-5641ebee1283",
+              "name": "Postęp w sztucznej inteligencji"
+            }
+          ],
+          "provider": [
+            {
+              "_type": "Organization",
+              "name": "Londynek.net",
+              "image": {
+                "thumbnail": {
+                  "contentUrl": "https://www.bing.com/th?id=ODF.FyZO645vVAbMBqEQpxf1pQ&pid=news"
+                }
+              }
+            }
+          ],
+          "datePublished": "2024-09-13T10:00:00Z"
+        },
+        {
+          "name": "Jak kształtowała się miesięczna produkcja energii elektrycznej z gazu",
+          "url": "https://biznesalert.pl/energia-elektryczna-produkcja-polska-energetyka/",
+          "image": {
+            "thumbnail": {
+              "contentUrl": "https://www.bing.com/th?id=OVFT.qyYk5qFU63EAVJ5Rmg-hiS&pid=News",
+              "width": 700,
+              "height": 467
+            }
+          },
+          "description": "Sierpniowy import LNG do Europy odbywał się w tempie 230 mln m sześc./d ze względu na słabszy popyt sezonowy i bazowy, mniejszą dostępną pojemność magazynową, płaską podaż na świecie oraz silniejszy p",
+          "about": [
+            {
+              "readLink": "https://api.bing.microsoft.com/api/v7/entities/4f7022de-1ae0-5ac6-12d5-d25636fb6c8b",
+              "name": "LNG"
+            }
+          ],
+          "provider": [
+            {
+              "_type": "Organization",
+              "name": "BiznesAlert.pl",
+              "image": {
+                "thumbnail": {
+                  "contentUrl": "https://www.bing.com/th?id=ODF.OWgoEh_1qP1x3eGA1cO-Qg&pid=news"
+                }
+              }
+            }
+          ],
+          "datePublished": "2024-09-10T05:40:00Z"
+        },
+        {
+          "name": "Szybsze aplikacje na Windows 11 – Microsoft obiecuje wielkie zmiany",
+          "url": "https://ithardware.pl/aktualnosci/szybsze_aplikacje_na_windows_11_microsoft_obiecuje_wielkie_zmiany-35183.html",
+          "image": {
+            "thumbnail": {
+              "contentUrl": "https://www.bing.com/th?id=OVFT.ugtVwXmz4kTu6wbelF8-uC&pid=News",
+              "width": 700,
+              "height": 393
+            }
+          },
+          "description": "We wczesnych testach Microsoft zaobserwował znaczną poprawę: aplikacje ładują się teraz nawet o 50% szybciej, a pakiety aplikacji są osiem razy mniejsze. Rozmiar aplikacji działających w trybie autonomicznym został również zmniejszony nawet dwukrotnie, co jeszcze bardziej poprawiło wydajność aplikacji opartych na zestawie Windows App SDK.",
+          "about": [
+            {
+              "readLink": "https://api.bing.microsoft.com/api/v7/entities/16aeb6d9-9098-0a40-4970-8e46a4fcee12",
+              "name": "Microsoft Windows"
+            },
+            {
+              "readLink": "https://api.bing.microsoft.com/api/v7/entities/a093e9b9-90f5-a3d5-c4b8-5855e1b01f85",
+              "name": "Microsoft"
+            },
+            {
+              "readLink": "https://api.bing.microsoft.com/api/v7/entities/e8c1a257-7315-a482-c81d-202a0260e4ed",
+              "name": "Interfejs programowania aplikacji"
+            }
+          ],
+          "provider": [
+            {
+              "_type": "Organization",
+              "name": "ITHardware",
+              "image": {
+                "thumbnail": {
+                  "contentUrl": "https://www.bing.com/th?id=ODF.uXQv5YEO0myhr-cjcBe-Sg&pid=news"
+                }
+              }
+            }
+          ],
+          "datePublished": "2024-09-17T08:33:00Z"
+        },
+        {
+          "name": "Mario Draghi ostrzega przed „powolną agonią” UE. Proponuje wielki plan inwestycyjny",
+          "url": "https://www.rp.pl/gospodarka/art41100571-mario-draghi-ostrzega-przed-powolna-agonia-ue-proponuje-wielki-plan-inwestycyjny",
+          "image": {
+            "thumbnail": {
+              "contentUrl": "https://www.bing.com/th?id=OVFT.w3XdzQa24QxRzL82aYRUxC&pid=News",
+              "width": 700,
+              "height": 437
+            }
+          },
+          "description": "Były szef EBC Mario Draghi w długo oczekiwanym raporcie przestrzega przed „powolną agonią” unijnej gospodarki. Na odzyskanie konkurencyjności przez UE potrzeba nawet 800 mld euro rocznie. Powolna agonia zdaniem Mario Draghiego grozi Europie, jeśl ...",
+          "about": [
+            {
+              "readLink": "https://api.bing.microsoft.com/api/v7/entities/0abe8057-3d94-bc1b-c3fe-ce36f5522ed3",
+              "name": "Mario Draghi"
+            },
+            {
+              "readLink": "https://api.bing.microsoft.com/api/v7/entities/8924a679-038b-4d30-ed1b-a410f8866d9d",
+              "name": "Ursula von der Leyen"
+            },
+            {
+              "readLink": "https://api.bing.microsoft.com/api/v7/entities/58129422-cbb7-fc9b-2eda-972bb08460fe",
+              "name": "Przewodniczący Komisji Europejskiej"
+            }
+          ],
+          "provider": [
+            {
+              "_type": "Organization",
+              "name": "Rzeczpospolita"
+            }
+          ],
+          "datePublished": "2024-09-10T04:30:00Z"
+        },
+        {
+          "name": "Microsoft przestaje zaśmiecać Edge. Przeglądarka będzie lepsza",
+          "url": "https://www.instalki.pl/news/software/edge-koniec-zasmiecania-przegladarki-przez-microsoft/",
+          "image": {
+            "thumbnail": {
+              "contentUrl": "https://www.bing.com/th?id=OVFT.R-NttnuWOBR26INUbkZ_0i&pid=News",
+              "width": 700,
+              "height": 393
+            }
+          },
+          "description": "Popularna przeglądarka Edge zyska wkrótce przeprojektowaną sekcję ustawień. Użytkownicy otrzymają mniej zaśmiecony interfejs.",
+          "about": [
+            {
+              "readLink": "https://api.bing.microsoft.com/api/v7/entities/a093e9b9-90f5-a3d5-c4b8-5855e1b01f85",
+              "name": "Microsoft"
+            },
+            {
+              "readLink": "https://api.bing.microsoft.com/api/v7/entities/46724816-656d-4985-947c-985664327930",
+              "name": "Microsoft Edge"
+            }
+          ],
+          "provider": [
+            {
+              "_type": "Organization",
+              "name": "instalki",
+              "image": {
+                "thumbnail": {
+                  "contentUrl": "https://www.bing.com/th?id=ODF.VRyO2YFhv2ZXyxzsXcArqA&pid=news"
+                }
+              }
+            }
+          ],
+          "datePublished": "2024-09-17T12:54:00Z"
+        },
+        {
+          "name": "Produkty znanej firmy niedostępne. Problemy dotknęły 90 tysięcy osób",
+          "url": "https://www.telepolis.pl/tech/wydarzenia/wszyscy-juz-zapomnieli-a-microsoft-dopiero-teraz-rozwiazal-problem",
+          "image": {
+            "thumbnail": {
+              "contentUrl": "https://www.bing.com/th?id=OVFT.lquPuB_MAjohBC8RPfaWaS&pid=News",
+              "width": 700,
+              "height": 466
+            }
+          },
+          "description": "Niespełna dwa miesiące po ogromnej awarii usług Microsoft, związanej z błędami firmy CrowdStrike produkty firmy znów były niedostępne. Według serwisu Downdetector, problemy techniczne zostały zaraportowane przez ponad 90 tysięcy użytkowników w Stanach Zjednoczonych. Dotyczyły głównie usług Microsoft 365.",
+          "about": [
+            {
+              "readLink": "https://api.bing.microsoft.com/api/v7/entities/c7daa294-d7e1-0390-9f09-8f8c015391af",
+              "name": "Microsoft 365"
+            },
+            {
+              "readLink": "https://api.bing.microsoft.com/api/v7/entities/a093e9b9-90f5-a3d5-c4b8-5855e1b01f85",
+              "name": "Microsoft"
+            }
+          ],
+          "provider": [
+            {
+              "_type": "Organization",
+              "name": "telepolis.pl",
+              "image": {
+                "thumbnail": {
+                  "contentUrl": "https://www.bing.com/th?id=ODF.XsP9AemTE2m0WXeSrp68Gw&pid=news"
+                }
+              }
+            }
+          ],
+          "datePublished": "2024-09-13T08:59:00Z"
+        },
+        {
+          "name": "Android 16 uwolni cię od nadmiaru powiadomień. Google w końcu się ogarnął",
+          "url": "https://www.telepolis.pl/wiadomosci/aplikacje/android-16-powiadomienia-synchronizacja-miedzy-urzadzeniami",
+          "image": {
+            "thumbnail": {
+              "contentUrl": "https://www.bing.com/th?id=OVFT.Zyb7DMJmvc6fc5dzw5-DxS&pid=News",
+              "width": 700,
+              "height": 466
+            }
+          },
+          "description": "Choć Android 15 w swej finalnej wersji nie trafił jeszcze nawet do smartfonów Pixel, system jest nieustannie rozwijany z myślą o kolejnych aktualizacjach na przyszłość. W rozwojowej wersji Android 15 QPR1 Beta 2 dla telefonów Google Pixel została dostrzeżona nowa funkcja, która docelowo ma zadebiutować dopiero w Androidzie 16.",
+          "about": [
+            {
+              "readLink": "https://api.bing.microsoft.com/api/v7/entities/f39b29ec-05ee-d6cb-3070-ddaa0fb00ee0",
+              "name": "Google"
+            },
+            {
+              "readLink": "https://api.bing.microsoft.com/api/v7/entities/c2fb3ac4-dd75-2fbf-e526-76f8a2edfe55",
+              "name": "Gmail"
+            },
+            {
+              "readLink": "https://api.bing.microsoft.com/api/v7/entities/4bc8f781-7083-d1a0-f781-9466e0eb62e7",
+              "name": "Facebook"
+            },
+            {
+              "readLink": "https://api.bing.microsoft.com/api/v7/entities/a2113d26-7976-df57-241f-77b7bbb1b4f7",
+              "name": "Instagram"
+            }
+          ],
+          "provider": [
+            {
+              "_type": "Organization",
+              "name": "telepolis.pl",
+              "image": {
+                "thumbnail": {
+                  "contentUrl": "https://www.bing.com/th?id=ODF.XsP9AemTE2m0WXeSrp68Gw&pid=news"
+                }
+              }
+            }
+          ],
+          "datePublished": "2024-09-17T10:49:00Z"
+        },
+        {
+          "name": "Pobierz Windows Apps - wszystkie wersje i dodatki | 7",
+          "url": "https://www.softonic.pl/downloads/windows-apps/7",
+          "description": "Należy do kategorii 'Przeglądarki' i podkategorii 'Przeglądarki', zostało opracowane przez NPlay. Flipboard - Latest News Top Stories Lifestyle na Android Flipboard - Latest News Top Stories Lifestyle na iPhone Flipboard jest aplikacją skupiającą ...",
+          "provider": [
+            {
+              "_type": "Organization",
+              "name": "softonic.pl"
+            }
+          ],
+          "datePublished": "2024-09-22T06:19:00Z"
+        },
+        {
+          "name": "Sporo „demotywujących opinii” na temat Once Human pomoże ulepszyć grę. Studio planuje zmiany",
+          "url": "https://www.gram.pl/news/sporo-demotywujacych-opinii-na-temat-once-human-pomoze-ulepszyc-gre-studio-planuje-zmiany",
+          "image": {
+            "thumbnail": {
+              "contentUrl": "https://www.bing.com/th?id=OVFT.ew5dhvdJIwyDiOgyXXpnpy&pid=News",
+              "width": 700,
+              "height": 393
+            }
+          },
+          "description": "W lipcu miała miejsce premiera Once Human, czyli sieciowego survivalu w otwartym świecie od Starry Studio. Gra przyciągnęła masę graczy, jednak odbiór na platformie Steam był w momencie debiutu „mieszany”. Choć ocena uległa poprawie, drugi sezon Once Human zgarnął sporo krytyki i „demotywujących opinii”, które zostały jednak docenione przez zespół.",
+          "about": [
+            {
+              "readLink": "https://api.bing.microsoft.com/api/v7/entities/26863499-2738-3232-0d07-26bbf372b015",
+              "name": "Once Human"
+            },
+            {
+              "readLink": "https://api.bing.microsoft.com/api/v7/entities/49132776-7391-746b-ddd5-588b744e68ab",
+              "name": "Steam"
+            }
+          ],
+          "provider": [
+            {
+              "_type": "Organization",
+              "name": "gram.pl",
+              "image": {
+                "thumbnail": {
+                  "contentUrl": "https://www.bing.com/th?id=ODF.ITlmwADMx4u15J-3bHJrpw&pid=news"
+                }
+              }
+            }
+          ],
+          "datePublished": "2024-09-08T14:00:00Z"
+        },
+        {
+          "name": "Jagran Prakashan Limited Apps",
+          "url": "https://www.softonic.pl/autor/jagran-prakashan-limited",
+          "description": "JagranJosh to strona internetowa poświęcona udostępnianiu platformy wyszukiwania ofert pracy dla instytucji rządowych w Indiach. Świadczymy tę usługę użytkownikom od dawna, a najnowszym dodatkiem do n",
+          "provider": [
+            {
+              "_type": "Organization",
+              "name": "softonic.pl",
+              "image": {
+                "thumbnail": {
+                  "contentUrl": "https://www.bing.com/th?id=ODF.XZkWZ3JpR9vRu2gsUFNM6w&pid=news"
+                }
+              }
+            }
+          ],
+          "datePublished": "2024-09-23T11:09:00Z"
+        },
+        {
+          "name": "Nowy ranking FIFA. Spadek reprezentacji Polski w zestawieniu. O ile miejsc?",
+          "url": "https://futbol.pl/news/587846_Nowy_ranking_FIFA_Spadek_reprezentacji_Polski_w_zestawieniu_O_ile_miejsc",
+          "image": {
+            "thumbnail": {
+              "contentUrl": "https://www.bing.com/th?id=OVFT.llDnNkHxCIBnA-alFHizqi&pid=News",
+              "width": 700,
+              "height": 458
+            }
+          },
+          "description": "Poznaliśmy nowy ranking FIFA. Na jakim miejscu znajduje się reprezentacja Polski?",
+          "about": [
+            {
+              "readLink": "https://api.bing.microsoft.com/api/v7/entities/58247504-b9af-e3b8-9677-8f6290926f45",
+              "name": "FIFA"
+            },
+            {
+              "readLink": "https://api.bing.microsoft.com/api/v7/entities/68d54698-28b0-fa68-ac07-9b1c5ecd1eb1",
+              "name": "Reprezentacja Polski w piłce siatkowej mężczyzn"
+            },
+            {
+              "readLink": "https://api.bing.microsoft.com/api/v7/entities/72ba5eb1-b26e-f2b1-68e7-a2ebdbe185fd",
+              "name": "Luka Modrić"
+            },
+            {
+              "readLink": "https://api.bing.microsoft.com/api/v7/entities/1d6059a2-d1f1-d2d7-4261-dc7cd5cdb84b",
+              "name": "Polska"
+            }
+          ],
+          "provider": [
+            {
+              "_type": "Organization",
+              "name": "futbol",
+              "image": {
+                "thumbnail": {
+                  "contentUrl": "https://www.bing.com/th?id=ODF.ISqMgyebC_1-7vrmAcumeg&pid=news"
+                }
+              }
+            }
+          ],
+          "datePublished": "2024-09-19T09:22:00Z"
+        },
+        {
+          "name": "What are the consequences for children of single parents? | Utterly Moderate Podcast",
+          "url": "https://wiscnews.com/news/opinion/columnists/what-are-the-consequences-for-children-of-single-parents-utterly-moderate-podcast/article_18d4fdb7-544e-5fa8-bb4b-e6eb46e0e219.html",
+          "image": {
+            "thumbnail": {
+              "contentUrl": "https://www.bing.com/th?id=OVFT.Orqib_5kf9ojfBzL7CGBQi&pid=News",
+              "width": 700,
+              "height": 367
+            }
+          },
+          "description": "We discuss rising single parenthood and its consequences for children on the most recent episode of the Utterly Moderate Podcast.",
+          "about": [
+            {
+              "readLink": "https://api.bing.microsoft.com/api/v7/entities/ef83bffe-cac4-b102-0bf7-d846fb40a1df",
+              "name": "Single parents in the United States"
+            },
+            {
+              "readLink": "https://api.bing.microsoft.com/api/v7/entities/5232ed96-85b1-2edb-12c6-63e6c597a1de",
+              "name": "United States"
+            },
+            {
+              "readLink": "https://api.bing.microsoft.com/api/v7/entities/d349153c-69d2-a1bc-1b1b-501041f28045",
+              "name": "The Bulwark"
+            }
+          ],
+          "provider": [
+            {
+              "_type": "Organization",
+              "name": "WiscNews",
+              "image": {
+                "thumbnail": {
+                  "contentUrl": "https://www.bing.com/th?id=ODF.9NxCshGO8KPPAMOY--MYtw&pid=news"
+                }
+              }
+            }
+          ],
+          "datePublished": "2024-09-13T20:30:00Z"
+        },
+        {
+          "name": "Gonzo With Jack Saunders 3, odc. 8",
+          "url": "https://programtv.onet.pl/tv/gonzo-with-jack-saunders-3-odcinek-8/6ie6m",
+          "description": "Legendary alternative music show Gonzo is back on MTV! Host Jack Saunders brings all the latest hot new alternative tunes, news and views! (S3, ep8)",
+          "about": [
+            {
+              "readLink": "https://api.bing.microsoft.com/api/v7/entities/275a6f76-4a7b-d283-68d8-a575b4c8dd8b",
+              "name": "MTV"
+            },
+            {
+              "readLink": "https://api.bing.microsoft.com/api/v7/entities/535a6099-5750-d588-323f-ae30ef20af3f",
+              "name": "Jack Saunders"
+            }
+          ],
+          "provider": [
+            {
+              "_type": "Organization",
+              "name": "programtv.onet",
+              "image": {
+                "thumbnail": {
+                  "contentUrl": "https://www.bing.com/th?id=ODF.a8KvWvmNgojEgMw72SScoA&pid=news"
+                }
+              }
+            }
+          ],
+          "datePublished": "2024-08-05T23:59:00Z"
+        },
+        {
+          "name": "Operacja Sobowtór. Amerykańscy influencerzy na liście Kremla",
+          "url": "https://www.gazetaprawna.pl/magazyn-na-weekend/artykuly/9603522,operacja-sobowtor-amerykanscy-influencerzy-na-liscie-kremla.html",
+          "image": {
+            "thumbnail": {
+              "contentUrl": "https://www.bing.com/th?id=OVFT.ogKxMA6cOVUXZP1y4qgOyy&pid=News",
+              "width": 700,
+              "height": 522
+            }
+          },
+          "description": "Pliki cookie, identyfikatory urządzeń lub podobne identyfikatory online (np. identyfikatory oparte na logowaniu, identyfikatory przypisywane losowo, identyfikatory sieciowe) w połączeniu z innymi info",
+          "provider": [
+            {
+              "_type": "Organization",
+              "name": "GAZETA PRAWNA",
+              "image": {
+                "thumbnail": {
+                  "contentUrl": "https://www.bing.com/th?id=ODF.tgiy-cRQKhwtVXtXiqgsCA&pid=news"
+                }
+              }
+            }
+          ],
+          "datePublished": "2024-09-12T19:33:00Z"
+        },
+        {
+          "name": "Alarm przeciwpowodziowy we Wrocławiu. Gotowi na \"najczarniejszy scenariusz\"",
+          "url": "https://www.polsatnews.pl/wiadomosc/2024-09-16/wroclaw-przygotowuje-sie-na-najgorsze-ogloszono-alarm-przeciwpowodziowy/",
+          "image": {
+            "thumbnail": {
+              "contentUrl": "https://www.bing.com/th?id=OVFT.thVLfgODBvYZ4hmkBw7VFC&pid=News",
+              "width": 700,
+              "height": 393
+            }
+          },
+          "description": "Scenariusze przygotowane przez hydrologów i obowiązujące jeszcze wczoraj, okazały się niedoszacowane - przekazał prezydent Wrocławia Jacek Sutryk. W związku z tym, że do miasta ma przypłynąć jeszcze w",
+          "provider": [
+            {
+              "_type": "Organization",
+              "name": "polsatnews",
+              "image": {
+                "thumbnail": {
+                  "contentUrl": "https://www.bing.com/th?id=ODF.gqghbhQ0lymmjp4YAd1iQw&pid=news"
+                }
+              }
+            }
+          ],
+          "datePublished": "2024-09-16T03:42:00Z"
+        },
+        {
+          "name": "W podstacji transformatorowej w Tarnopolu doszło do eksplozji",
+          "url": "https://geopolityka.org/20240922/w-podstacji-transformatorowej-w-tarnopolu-doszlo-do-eksplozji/",
+          "image": {
+            "thumbnail": {
+              "contentUrl": "https://www.bing.com/th?id=OVFT.XTiFhPkj83bR9AmNAScKtC&pid=News",
+              "width": 600,
+              "height": 375
+            }
+          },
+          "description": "Kilka ulic centrum regionalnego zostało pozbawionych prądu. żarówki Wieczorem 22 września w Tarnopolu doszło do eksplozji w stacji transformatorowej podstacja",
+          "provider": [
+            {
+              "_type": "Organization",
+              "name": "geopolityka.org"
+            }
+          ],
+          "datePublished": "2024-09-22T18:49:00Z"
+        },
+        {
+          "name": "Kolejna próba zamachu na Donalda Trumpa? Na polu golfowym polityka doszło do strzelaniny",
+          "url": "https://www.fakt.pl/polityka/kolejna-proba-zamachu-na-donalda-trumpa/v6gvgsf",
+          "image": {
+            "thumbnail": {
+              "contentUrl": "https://www.bing.com/th?id=OVFT.2CycIxm_YdAK2I66O8mQ-i&pid=News",
+              "width": 700,
+              "height": 367
+            }
+          },
+          "description": "W Trump National Golf Club w West Palm Beach, gdzie Donald Trump grał w golfa, doszło do strzelaniny. A stało się to niemal dokładnie dwa miesiące po tym, gdy zamachowiec strzelił do polityka na",
+          "about": [
+            {
+              "readLink": "https://api.bing.microsoft.com/api/v7/entities/aead1964-17b2-46fb-a0ed-3c8a8d014a7e",
+              "name": "West Palm Beach"
+            },
+            {
+              "readLink": "https://api.bing.microsoft.com/api/v7/entities/1a466af2-ed23-25bd-794d-1ca925e4681b",
+              "name": "Donald Trump"
+            },
+            {
+              "readLink": "https://api.bing.microsoft.com/api/v7/entities/bd2854ec-8a81-ece8-7d9f-19846ecd0a9c",
+              "name": "Butler"
+            }
+          ],
+          "provider": [
+            {
+              "_type": "Organization",
+              "name": "Fakt.pl",
+              "image": {
+                "thumbnail": {
+                  "contentUrl": "https://www.bing.com/th?id=ODF.S98F8jIiuGzSo7XWBjLcxA&pid=news"
+                }
+              }
+            }
+          ],
+          "datePublished": "2024-09-15T21:44:00Z"
+        },
+        {
+          "name": "Nowa aktualizacja Windows 11 to loteria. Możesz coś zyskać, ale i stracić",
+          "url": "https://ithardware.pl/aktualnosci/nowa_aktualizacja_windows_11_to_loteria_mozesz_cos_zyskac_ale_i_stracic-35204.html",
+          "image": {
+            "thumbnail": {
+              "contentUrl": "https://www.bing.com/th?id=OVFT.Jn6fLrFDAW_5iQAFuXnqyi&pid=News",
+              "width": 700,
+              "height": 393
+            }
+          },
+          "description": "W zeszłym tygodniu system Windows 11 otrzymał nową aktualizację zbiorczą, ale wygląda na to, że wrześniowa łatka z jednej strony przynosi wymierne korzyści graczom, a z drugiej przysparza im jednocześnie nowych kłopotów, przynajmniej według doniesień o błędach w KB5043076.",
+          "about": [
+            {
+              "readLink": "https://api.bing.microsoft.com/api/v7/entities/20757754-e543-a49f-c338-3463e22655c3",
+              "name": "Reddit"
+            }
+          ],
+          "provider": [
+            {
+              "_type": "Organization",
+              "name": "ITHardware",
+              "image": {
+                "thumbnail": {
+                  "contentUrl": "https://www.bing.com/th?id=ODF.uXQv5YEO0myhr-cjcBe-Sg&pid=news"
+                }
+              }
+            }
+          ],
+          "datePublished": "2024-09-18T07:23:00Z"
+        },
+        {
+          "name": "Wojna wywiadów: Kanadyjskie służby uczą się od Polski",
+          "url": "https://wgospodarce.pl/informacje/145505-wojna-wywiadow-kanadyjskie-sluzby-ucza-sie-od-polski",
+          "image": {
+            "thumbnail": {
+              "contentUrl": "https://www.bing.com/th?id=OVFT.Lg-hqvRm6Ggko9YcCQPj5i&pid=News",
+              "width": 700,
+              "height": 367
+            }
+          },
+          "description": "Komisja bezpieczeństwa parlamentu Kanady postanowiła w czwartek przeprowadzić dochodzenie w sprawie rosyjskich wpływów w tym kraju. Polska mogłaby wesprzeć Kanadę w ocenie zagrożeń stwarzanych przez",
+          "about": [
+            {
+              "readLink": "https://api.bing.microsoft.com/api/v7/entities/1d6059a2-d1f1-d2d7-4261-dc7cd5cdb84b",
+              "name": "Polska"
+            },
+            {
+              "readLink": "https://api.bing.microsoft.com/api/v7/entities/66bce6eb-c532-4e4e-ab5f-c29c2c2080be",
+              "name": "Radosław Sikorski"
+            }
+          ],
+          "provider": [
+            {
+              "_type": "Organization",
+              "name": "wgospodarce",
+              "image": {
+                "thumbnail": {
+                  "contentUrl": "https://www.bing.com/th?id=ODF.SNAK_qmn00QQETqgm6SkYA&pid=news"
+                }
+              }
+            }
+          ],
+          "datePublished": "2024-09-21T12:00:00Z",
+          "video": {
+            "name": "Wojna wywiadów: Kanadyjskie służby uczą się od Polski",
+            "thumbnailUrl": "https://www.bing.com/th?id=OVF.9HNN8lTAUZomZlQ9LDZtDQ&pid=News",
+            "thumbnail": {
+              "width": 520,
+              "height": 273
+            }
+          }
+        },
+        {
+          "name": "Wiadomości 16 września 2024 SBS News Flash",
+          "url": "https://www.sbs.com.au/language/polish/pl/podcast-episode/wiadomosci-16-wrzesnia-2024-sbs-news-flash/v3q6uszys",
+          "image": {
+            "thumbnail": {
+              "contentUrl": "https://www.bing.com/th?id=OVFT.aeLJ6zIzm4XUe9hLVYTCMS&pid=News",
+              "width": 700,
+              "height": 393
+            }
+          },
+          "description": "SBS acknowledges the Traditional Custodians of Country and their connections and continuous care for the skies, lands and waterways throughout Australia.",
+          "provider": [
+            {
+              "_type": "Organization",
+              "name": "SBS",
+              "image": {
+                "thumbnail": {
+                  "contentUrl": "https://www.bing.com/th?id=ODF.mLnx2JC51LqMh5KJXeX9ZA&pid=news"
+                }
+              }
+            }
+          ],
+          "datePublished": "2024-09-16T07:26:00Z"
+        },
+        {
+          "name": "Wrocław się obronił przed żywiołem wody",
+          "url": "https://www.sbs.com.au/language/polish/pl/podcast-episode/wroc%C5%82aw-sie-obroni%C5%82-przed-zywio%C5%82em-wody/hj18abgqw",
+          "image": {
+            "thumbnail": {
+              "contentUrl": "https://www.bing.com/th?id=OVFT.06wv-YQtNKBt8I1NR9ejQS&pid=News",
+              "width": 700,
+              "height": 393
+            }
+          },
+          "description": "O wygranej mieszkańców Wrocławia, który jak wiele innych miejscowośći w południowej Polsce nawiedziła powódź oraz o tym co spowodowało, że miasto się obroniło przed żywiołem mówi nasz polski korespond",
+          "about": [
+            {
+              "readLink": "https://api.bing.microsoft.com/api/v7/entities/963f8ede-9b07-1279-1785-e95f46805b4c",
+              "name": "Wrocław"
+            }
+          ],
+          "provider": [
+            {
+              "_type": "Organization",
+              "name": "SBS",
+              "image": {
+                "thumbnail": {
+                  "contentUrl": "https://www.bing.com/th?id=ODF.mLnx2JC51LqMh5KJXeX9ZA&pid=news"
+                }
+              }
+            }
+          ],
+          "datePublished": "2024-09-20T14:26:00Z"
+        },
+        {
+          "name": "Obszary badawcze glottodydaktyki",
+          "url": "https://www.alphagalileo.org/en-gb/Item-Display/ItemId/250110",
+          "description": "Artykuł Obszary badawcze glottodydaktyki autorstwa Weroniki Wilczyńskiej stanowi dogłębną analizę rozwoju glottodydaktyki jako interdyscyplinarnej",
+          "provider": [
+            {
+              "_type": "Organization",
+              "name": "AlphaGalileo",
+              "image": {
+                "thumbnail": {
+                  "contentUrl": "https://www.bing.com/th?id=ODF.dZFU6nIsnkegFriyuCYjpQ&pid=news"
+                }
+              }
+            }
+          ],
+          "datePublished": "2024-09-16T11:54:00Z"
+        },
+        {
+          "name": "Syberia The World Before - poradnik do gry",
+          "url": "https://www.gry-online.pl/poradniki/syberia-the-world-before/most-mgiel-2005-czesc-1/z31c573",
+          "description": "Syberia The World Before: Vaghen - most Mgieł, jesień 2005 część 1 (Vaghen - bridge of Mists, autumn 2005 part 1) - solucja, opis przejścia Syberia The World Before poradnik, solucja Ta strona poradnika do Syberia The World Before przedstawia ...",
+          "provider": [
+            {
+              "_type": "Organization",
+              "name": "gry-online.pl"
+            }
+          ],
+          "datePublished": "2024-09-15T00:17:00Z"
+        }
+      ]
+    }
+  ]

@@ -1,0 +1,67 @@
+Negative Sentiment % = 
+IF(
+    COUNTROWS(
+        FILTER(
+            'sentiment_analysis', 
+            'sentiment_analysis'[sentiment] = "negative"
+        )
+    ) > 0,
+    DIVIDE(
+        CALCULATE(
+            COUNTROWS(
+                FILTER(
+                    'sentiment_analysis', 
+                    'sentiment_analysis'[sentiment] = "negative"
+                )
+            )
+        ),
+        COUNTROWS('sentiment_analysis')
+    )*100,
+    0
+)
+
+
+Neutral Sentiment % = 
+IF(
+    COUNTROWS(
+        FILTER(
+            'sentiment_analysis', 
+            'sentiment_analysis'[sentiment] = "neutral"
+        )
+    ) > 0,
+    DIVIDE(
+        CALCULATE(
+            COUNTROWS(
+                FILTER(
+                    'sentiment_analysis', 
+                    'sentiment_analysis'[sentiment] = "neutral"
+                )
+            )
+        ),
+        COUNTROWS('sentiment_analysis')
+    )*100,
+    0
+)
+
+
+Positive Sentiment % = 
+IF(
+    COUNTROWS(
+        FILTER(
+            'sentiment_analysis', 
+            'sentiment_analysis'[sentiment] = "positive"
+        )
+    ) > 0,
+    DIVIDE(
+        CALCULATE(
+            COUNTROWS(
+                FILTER(
+                    'sentiment_analysis', 
+                    'sentiment_analysis'[sentiment] = "positive"
+                )
+            )
+        ),
+        COUNTROWS('sentiment_analysis')
+    )*100,
+    0
+)
