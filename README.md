@@ -17,7 +17,7 @@ Project is based on Microsoft Fabric. These technologies from within Fabric were
 
 - **Storage**
   - Azure Lakehouse (both raw files and tables)
-- **Processing and orchestration**
+- **Processing**
   - Jupyter Notebooks (PySpark)
 - **Orchestration**
   - Data Factory
@@ -38,17 +38,17 @@ Project is based on Microsoft Fabric. These technologies from within Fabric were
 The pipeline consists of the following main tasks:
 1. **Copy Latest News**: Query Bing Web Search API for "latest news" and write the result as *latest_news.JSON* to the lakehouse
 2. **Data Transformation**: Transform *latest_news.JSON* to a table
-3. **Sentiment Analysis**: Apply pre-trained ML model to tell if, for example, Article A has a positive, negative or neutral semantic. (based on its description)
+3. **Sentiment Analysis**: Apply pre-trained ML model to tell if, for example, Article A has a positive, negative or neutral sentiment. (based on its description)
 
 ### Power BI Report
 
 <img src="images/powerbi_report1.png" alt="drawing" width="600"/>
 <img src="images/powerbi_report2.png" alt="drawing" width="600"/>
 
-💡 I applied several nice concepts in this report:
+💡 I applied multiple interesting concepts in this report:
 1. Auto-generated page 1 of the report using Fabric's AI capabilities.
-2. On page 2, I set the report to only show latest 3 days available. (most of people looking at news are interested in latest news only)
-3. I generated an alert that sends me an e-mail every time total count of rows changes. (I then know that a new "batch" of news arrived, and I should review the report)
+2. On page 2, I set the report to only show data from last 3 days.
+3. I generated an alert that sends an e-mail every time total count of rows changes. (User then knows that a new "batch" of news arrived, and they should review the report)
 
 ## Concepts Implemented
 
@@ -89,7 +89,8 @@ Then, create the following tasks in the pipeline:
 1. **Copy Data (`Copy Latest News`)**
    - Source:
      - Connection: New >> REST >> Details as below
-       <img src="images/connection.png" alt="drawing" width="300"/>
+       <br>
+       <img src="images/connection.png" alt="drawing" width="500"/>
      - Relative URL: `?q=@{pipeline().parameters.search_term}&count=100&mkt=pl-PL`, where:
        - `?q=@{pipeline().parameters.search_term}`: it is a typical search query. It uses the parameter "latest news" we created in step 2
        - `count=100`: increase count of news from 10 (standard) to 100
@@ -128,9 +129,10 @@ Once you created the semantic model, you can modify it:
    - Click `url`
    - Go to properties
    - Change data category to `Web URL`.\
-    (This will change the url column into a hyperlink in your report, which you'll create in the next step)\
+    (This will change the url column into a hyperlink in your report, which you'll create in the next step)
+  <br>
   <img src="images/url.png" alt="drawing" width="500"/>
-1. Add new measures (`Negative Sentiment %`, `Positive Sentiment %`, `Neutral Sentiment %`):
+4. Add new measures (`Negative Sentiment %`, `Positive Sentiment %`, `Neutral Sentiment %`):
    - Click `New Measure`
    - Add three new measures using the code in `./semantic_model` subdir\
     (You can use those measure when creating a PowerBI report (next step))
@@ -141,7 +143,7 @@ Once you created the semantic model, you can modify it:
 1. Go to your semantic model `news-dataset`
 2. Click `Explore this Data` >> `Auto-Generate report`
 3. AI will auto-genearte a nice report for you.
-4. You can add a new page to create custom report (using custom measures and modified columns which you did earlier)
+4. You can add a new page to create custom report (using custom measures and modified columns which you set up earlier)
 
 #### 2.6. **Data Activator**
 
@@ -157,12 +159,6 @@ If you want to set an alert:
 
 1. **Run ETL Pipeline**: Trigger the pipeline to start the data migration process.
 2. **Schedule ETL Pipeline**: You can schedule your pipeline to run daily at 6AM, giving you fresh news every morning
-3. **Alert**: You'll be notified every time you anything changes in your report. (so you know new news are there!)
+3. **Alert**: You'll be notified every time anything changes in your report. (so you know new news are there!)
 4. **Monitor**: You can use Fabric's Monitor functionality to see the runs
 <img src="images/monitor.png" alt="drawing" width="500"/>
-
-
-## Contact
-For any questions or inquiries, please contact me at bernasiakk@gmail.com
-
-Thanks for reading!
